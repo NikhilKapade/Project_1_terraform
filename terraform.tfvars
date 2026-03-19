@@ -1,0 +1,1 @@
+my_EC2_INSTANCE ="t2.micro"
