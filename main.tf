@@ -7,7 +7,7 @@ resource "aws_instance" "server" {
   iam_instance_profile = "EC2_s3_terraform"
 
   tags = {
-    Name= "Terra1"
+    Name= "EC2_Terraform_1"
  }
 
 }
