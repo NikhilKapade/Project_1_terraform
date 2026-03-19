@@ -1,1 +1,1 @@
-my_EC2_INSTANCE ="t2.micro"
+my_EC2_INSTANCE ="t3.small"
