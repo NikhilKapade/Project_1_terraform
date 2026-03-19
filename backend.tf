@@ -3,7 +3,7 @@ terraform {
     bucket         = "sandman01"
     key            = "terraform.tfstate"
     region         = "us-east-2"
-    dynamodb_table = "terrafrom-dynamoDB"
+    dynamodb_table = "dynamoDB"
   }
 }
 
