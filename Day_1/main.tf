@@ -5,6 +5,7 @@ resource "aws_vpc" "name" {
   tags = {
     Name= var.vpc_name
   }
+
 }
 
 # subnet creation
